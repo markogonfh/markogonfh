@@ -12,6 +12,6 @@
 
 `*## 📌 Мои проекты:*`
 
-- `*[AI number ](https://github.com/markogonfh/AI)*`
+[Flask API для погоды]((https://github.com/markogonfh/AI))
 
 📫 Контакты: [Telegram](https://t.me/username) | [LinkedIn](https://linkedin.com/in/username)

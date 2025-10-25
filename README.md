@@ -14,4 +14,4 @@
 
 - `*[AI number ](https://github.com/markogonfh/AI)*`
 
-`*📫 Контакты: [Telegram](https://t.me/markogonfh) *`
+`*📫 Контакты: [Telegram](https://t.me/markogonfh) | [LinkedIn](https://linkedin.com/in/username)*`

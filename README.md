@@ -11,7 +11,5 @@
 - `*SQLite*`
 
 `*## 📌 Мои проекты:*`
-
-[Flask API для погоды]([https://github.com/markogonfh/AI])
-
+[Flask API для погоды](https://github.com/user/weather-api)
 📫 Контакты: [Telegram](https://t.me/username) | [LinkedIn](https://linkedin.com/in/username)
